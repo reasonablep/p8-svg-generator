@@ -2,6 +2,6 @@
 
         <rect x="100" y="100" width="300" height="300" fill="black" />
         
-        <text x="250" y="250" font-size="80" text-anchor="middle" fill='green'>JAK</text>
+        <text x="250" y="275" font-size="80" text-anchor="middle" fill='green'>FAP</text>
           
         </svg>

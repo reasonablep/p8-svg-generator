@@ -73,5 +73,4 @@ if (userShape === 'circle') {
 
 };
 
-
 generateSvg();
